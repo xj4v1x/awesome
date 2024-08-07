@@ -2,6 +2,9 @@
 
 ## Cheatsheets
 - [VsCode](cheatsheets/vscode.md)
+- [HTML](cheatsheets/html5.html)
+- [CSS](cheatsheets/css.css)
+
 
 ## Awesome Open Source Software
 - [7-Zip](https://github.com/ip7z/7zip)
