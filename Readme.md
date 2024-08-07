@@ -1,6 +1,9 @@
 # Awesome list of Awesome things
 
-Awesome Open Source Software
+## Cheatsheets
+- [VsCode](cheatsheets/vscode.md)
+
+## Awesome Open Source Software
 - [7-Zip](https://github.com/ip7z/7zip)
 - [Brave](https://github.com/brave/brave-browser)
 - [Calibre](https://github.com/kovidgoyal/calibre)
