@@ -1,3 +1,4 @@
+
 # Visual Studio CheatSheet
 ##### https://github.com/LeCoupa
 ---
@@ -237,3 +238,6 @@
     "explorer.confirmDragAndDrop": false
 }
 ```
+~~~    
+Source: https://github.com/LeCoupa
+~~~
