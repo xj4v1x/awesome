@@ -14,6 +14,7 @@
   - [AnimatiSS](https://xsgames.co/animatiss/) Nice collection of CSS animations for your awesome web projects.
   - 
 
-  ### Typography
-  - [Glyphy](https://glyphy.io/es) Letras bonitas y simbolos para copiar y pegar.
+
+## Typography
+- [Glyphy](https://glyphy.io/es) Letras bonitas y simbolos para copiar y pegar.
     
