@@ -1,5 +1,8 @@
 # Awesome list of Awesome things
 
+## Awesome Bookmarks
+  [Bookmarks](./bookmarks/)
+
 ## Awesome Cheatsheets
 - [VsCode](cheatsheets/vscode.md)
 - [HTML](cheatsheets/html5.html)
