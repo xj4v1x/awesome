@@ -8,6 +8,7 @@
 
 ## Awesome Open Source Software
 - [7-Zip](https://github.com/ip7z/7zip)
+- [Audacity](https://github.com/audacity/audacity)
 - [Brave](https://github.com/brave/brave-browser)
 - [Calibre](https://github.com/kovidgoyal/calibre)
 - [FileZilla](https://filezilla-project.org/)
