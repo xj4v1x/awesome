@@ -12,6 +12,7 @@
   ### JAVASCRIPT
   - [HTML calculator app](https://www.freecodecamp.org/news/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98)
   - [Snake Game](https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e/)
+  - [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
     
 ## Awesome Open Source Software
 - [7-Zip](https://github.com/ip7z/7zip)
