@@ -1,11 +1,14 @@
 # Awesome list of Awesome things
 
-## Cheatsheets
+## Awesome Cheatsheets
 - [VsCode](cheatsheets/vscode.md)
 - [HTML](cheatsheets/html5.html)
 - [CSS](cheatsheets/css.css)
 
-
+## Awesome Tutorials
+  ### CSS
+  - [Delightful Loading Screen](https://www.freecodecamp.org/news/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f)
+    
 ## Awesome Open Source Software
 - [7-Zip](https://github.com/ip7z/7zip)
 - [Audacity](https://github.com/audacity/audacity)
