@@ -27,6 +27,10 @@
 ## Awesome Repos
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) Manually curated collection of resources for frontend web developers.
 - [Awesome-Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) Awesome cheatsheets for popular programming languages, frameworks and development tools.
+- [App Ideas](https://github.com/florinpop17/app-ideas)
+- [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [100 Days 100 Projects](https://github.com/florinpop17/100Days100Projects)
+- [50 projects 50 days](https://github.com/bradtraversy/50projects50days)
 
 ## Awesome Tutorials
   ### CSS
@@ -36,5 +40,8 @@
   - [HTML calculator app](https://www.freecodecamp.org/news/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98)
   - [Snake Game](https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e/)
   - [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+  - [Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  - [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+  - [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)
     
 
